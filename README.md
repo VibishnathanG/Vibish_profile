@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vibishnathang1999@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/vibishnathang](www.linkedin.com/in/vibishnathang)
+- 📄 Know about my experiences www.linkedin.com/in/vibishnathang
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
