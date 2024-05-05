@@ -5,11 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working and maintaining **Infrastructure modules provisioned by terraform**
+- 🔭 I’m currently working as Devops engineer in **Tata Consultancy services**
 
-- 🌱 I’m currently contributing on **Multiple Open-Source Technologies**
-
-- 💬 Ask me about **AWS, DevOps , Terraform**
+- 💬 Ask me about **AWS, DevOps Tools, Linux, Python**
 
 - 📫 How to reach me **vibishnathang1999@gmail.com**
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/vibishnathang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VibishnathanG" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vibishnathang" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibishnathang/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VibishnathanG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
